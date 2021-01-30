@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 大家好，很高兴在这个机缘巧合的情况下认识大家
+- 🌱 我叫徐鑫泽，来自浙江温州，兴趣爱好是唱歌、烹饪、写作。
+- 👯 你一定能够成为你想要的成为的人
 <!--
 **SeryKK/SeryKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
